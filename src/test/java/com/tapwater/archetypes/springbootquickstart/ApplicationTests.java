@@ -8,6 +8,7 @@ class ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Happy to hear from you");
 	}
 
 }
