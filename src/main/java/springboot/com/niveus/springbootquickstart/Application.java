@@ -10,7 +10,8 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-		System.out.println();
+		System.out.println("Happy to hear from you");
+		System.out.println("Lathika is testing again");
 	}
 
 }
